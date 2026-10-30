@@ -1,0 +1,4 @@
+# Kit-owned skeleton (adlc init); teams may add language servers.
+project_name: "kestrel-notify"
+language_servers: ["python"]
+encoding: "utf-8"
